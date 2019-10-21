@@ -1,6 +1,6 @@
 # Manifest
 
-Manifest is a simple module that enables the storage of Expression Engine configuration settings in the environment.  This is a simple wrapper for the awesome [PHP dotenv project by Vance Lucas](https://github.com/vlucas/phpdotenv).
+Manifest is a simple module that enables the storage of ExpressionEngine configuration settings in the environment.  This is a simple wrapper for the awesome [PHP dotenv project by Vance Lucas](https://github.com/vlucas/phpdotenv).
 
 ## Installation
 
